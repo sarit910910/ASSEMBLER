@@ -1,0 +1,8 @@
+macr m5
+mov r4,r5
+inc r6
+endmacr
+m5
+STR: dec r6
+lea STR,r5
+.data -100

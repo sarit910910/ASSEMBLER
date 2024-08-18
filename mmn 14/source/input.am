@@ -1,0 +1,5 @@
+mov r4,r5
+inc r6
+STR: dec r6
+lea STR,r5
+.data -100

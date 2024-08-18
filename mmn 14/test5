@@ -1,0 +1,6 @@
+macr m8
+mov r3,LENGTH
+mov r3,LENGTH
+sub r1,r4
+endmacr
+m8
